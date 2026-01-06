@@ -8,7 +8,7 @@ Note: The individual-level mortality data used in the real analysis are subject 
 
 Software details
 
-R, version 4.0.3 (recommended; newer versions should also work in most cases)
+R, version 3.6.1 (newer versions  also work in most cases)
 
 
 Repository structure (suggested)
