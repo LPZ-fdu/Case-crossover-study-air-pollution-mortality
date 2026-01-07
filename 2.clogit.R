@@ -1,5 +1,8 @@
 ##########################################################################################################
-# Codes for "Mortality risk and burden associated with all criteria air pollutants in China:Causal machine-learning evidence"
+#Codes for "Reduced mortality burden associated with the clean air policy in China: An integrated assessment based on causal machine learning"
+#Authors for codes: Yuchang Zhou, Peizheng Li, Ya Gao, Yi Guo, Yixiang Zhu, Lu Zhou, Peng Yin, Haidong Kan, Maigeng Zhou, Renjie Chen
+#Correspondence to Renjie Chen, Maigeng Zhou.
+###########################################################################################################
 # Case cross-over analysis for Conditional Logistic Regression model
 # Output: single + two-pollutant + multi-pollutant models at cummean lag0..2
 ##########################################################################################################
