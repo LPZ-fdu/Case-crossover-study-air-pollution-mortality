@@ -1,7 +1,7 @@
 ##########################################################################################################
-#Codes for "Mortality risk and burden associated with all criteria air pollutants in China: Causal machine-learning evidence"
-#Authors for codes: Huimeng Liu, Jian Lei, Yunxing Jiang, Lijun Bai, et.al.
-#Correspondence to Shaowei Wu, Yuewei Liu.
+#Codes for "Reduced mortality burden associated with the clean air policy in China: An integrated assessment based on causal machine learning"
+#Authors for codes: Yuchang Zhou, Peizheng Li, Ya Gao, Yi Guo, Yixiang Zhu, Lu Zhou, Peng Yin, Haidong Kan, Maigeng Zhou, Renjie Chen
+#Correspondence to Renjie Chen, Maigeng Zhou.
 ###########################################################################################################
 
 ##########################################################################################################
